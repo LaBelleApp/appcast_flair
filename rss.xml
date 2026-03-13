@@ -3,11 +3,11 @@
    <channel>
        <title>Flair - Appcast</title>
        <item>
-           <title>Version 1.1.0</title>
+           <title>Version 1.0.7</title>
            <sparkle:tags>
                <sparkle:criticalUpdate />
            </sparkle:tags>
-           <sparkle:version>1.1.0</sparkle:version>
+           <sparkle:version>1.0.7</sparkle:version>
        </item>
    </channel>
 </rss>
